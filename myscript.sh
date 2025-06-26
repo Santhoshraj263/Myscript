@@ -3,7 +3,7 @@
 # This is a comment, ignored by the shell.
 # It explains what the script does.
 
-echo "Hello, world!"
+ech"Hello, world!"
 echo "This is a simple shell script!."
 
 # You can also display the output of commands.
